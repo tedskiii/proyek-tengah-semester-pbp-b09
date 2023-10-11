@@ -1,2 +1,1 @@
-# proyek-tengah-semester-pbp-b09
-Repositori Kelompok B09 Kelas PBP untuk proyek tengah semester
+# Proyek Semester PBP Kelompok B09
